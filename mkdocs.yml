@@ -2,3 +2,4 @@ site_name: Historie
 nav:
   - Generelt: 'index.md'
   - Notater: 'notater.md'
+  - Læreplan: 'laereplan.md'
